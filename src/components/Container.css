@@ -1,0 +1,17 @@
+.container {
+  border: 2px solid red;
+  background-color: white;
+  padding: 1rem;
+  margin: 1rem;
+  color: black;
+}
+
+.title {
+  font-weight: bold;
+  cursor: pointer;
+  margin-bottom: 0.5rem;
+}
+
+.content {
+  padding: 10px;
+}
